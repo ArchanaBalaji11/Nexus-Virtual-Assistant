@@ -1,0 +1,66 @@
+{
+  "open chrome": [
+    ["C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"],
+    ["Opening Chrome browser."]
+  ],
+  "open word": [
+    ["C:\\Program Files\\Microsoft Office\\Office15\\WINWORD.EXE"],
+    ["Microsoft Word is now open."]
+  ],
+  "open notepad": [
+    ["notepad.exe"],
+    ["Notepad opened successfully."]
+  ],
+  "hey Nexus": [
+    [],
+    ["Hello!", "Hi there!", "Hey!"]
+  ],
+  "how are you": [
+    [],
+    ["I'm fine, thank you!", "Doing well, how can I assist?"]
+  ],
+  "what's your name": [
+    [],
+    ["I am Nexus, your assistant."]
+  ],
+  "open calculator": [
+    ["calc.exe"],
+    ["Calculator is now open."]
+  ],
+  "open cmd": [
+    ["cmd.exe"],
+    ["Command Prompt is now open."]
+  ],
+  "open youtube": [
+    ["https://www.youtube.com"],
+    ["Opening YouTube."]
+  ],
+  "open github": [
+    ["https://github.com"],
+    ["Opening GitHub."]
+  ],
+  "shutdown": [
+    ["shutdown /s /t 1"],
+    ["Shutting down your system..."]
+  ],
+  "restart": [
+    ["shutdown /r /t 1"],
+    ["Restarting your system..."]
+  ],
+  "lock screen": [
+    ["rundll32.exe user32.dll,LockWorkStation"],
+    ["Locking your screen..."]
+  ],
+  "open facebook": [
+    ["https://facebook.com"],
+    ["Opening Facebook."]
+  ],
+  "open whatsapp web": [
+    ["https://web.whatsapp.com"],
+    ["Opening WhatsApp Web."]
+  ],
+  "open gmail": [
+    ["https://mail.google.com"],
+    ["Opening Gmail."]
+  ]
+}
